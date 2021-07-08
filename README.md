@@ -1,4 +1,5 @@
 # CombinedModes for Google Snake
+This mod is not longer needed as Snake now has combined modes built in!
 This mod for Google Snake allows you to play with combined gamemodes.
 
 ## Enable CombinedModes (option 1)
